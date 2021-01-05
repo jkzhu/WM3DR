@@ -1,7 +1,7 @@
 # WM3DR
 *Weakly-Supervised Multi-Face 3D Reconstruction*
 
-gif
+![gif](result/out.gif)
 
 ## Installation
 
