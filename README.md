@@ -12,7 +12,7 @@ pytorch3d
 ```
 
 ## Model
-3DMM model used in this repo is from [Deep3d](https://github.com/microsoft/Deep3DFaceReconstruction) and [Deep3dPytorch](https://github.com/changhongjian/Deep3DFaceReconstruction-pytorch)
+3DMM model used in this repo is from [Deep3dPytorch](https://github.com/changhongjian/Deep3DFaceReconstruction-pytorch), you should generate mSEmTFK68etc.chj file and put it into './BFM/'
 
 Download the trained model [final.pth](https://drive.google.com/file/d/1Rx76Q2pkinxY8T5EtGHyc8bqlZhSYWtf/view?usp=sharing) in './model/'
 
