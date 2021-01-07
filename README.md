@@ -24,6 +24,7 @@ python demo_video.py
 ## Citation
 
 If you find this project useful for your research, please use the following BibTeX entry.
+  
   @misc{zhang2021weaklysupervised,
       title={Weakly-Supervised Multi-Face 3D Reconstruction}, 
       author={Jialiang Zhang and Lixiang Lin and Jianke Zhu and Steven C. H. Hoi},
